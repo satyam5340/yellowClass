@@ -1,5 +1,26 @@
-.modalImg{
-    height:250px;
-    width: 300px;
-    border:1px solid grey;
+.prev{
+    position: absolute;
+    opacity: 0;
+    
+    
+}
+.next{
+    
+    position: absolute;
+    opacity: 0;
+    
+    
+    
+}
+.curr{
+    position: absolute;
+    opacity: 0;
+    
+    
+}
+.move{
+    opacity: 1;
+    position: static;
+    transition: opacity 3s;
+    
 }
