@@ -1,26 +1,20 @@
 .prev{
     position: absolute;
-    opacity: 0;
-    
-    
+    opacity: 0;    
 }
-.next{
-    
+.next{   
     position: absolute;
-    opacity: 0;
-    
-    
-    
+    opacity: 0;    
 }
 .curr{
     position: absolute;
-    opacity: 0;
-    
-    
+    opacity: 0;   
 }
 .move{
     opacity: 1;
     position: static;
-    transition: opacity 3s;
-    
+    transition: opacity 3s;    
+}
+img{
+    border-radius: 10px;;
 }
