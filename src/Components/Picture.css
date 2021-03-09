@@ -24,3 +24,6 @@
     transition: opacity 3s;
     
 }
+img{
+    border-radius: 10px;
+}
